@@ -1,0 +1,85 @@
+Altium Designer Pick and Place Locations
+C:\Users\82445\Documents\WeChat Files\wxid_4kxdh9r1aado11\FileStorage\File\2019-04\ch559\Project Outputs for ch559\Pick Place for ch559.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/04/19
+Time:       11:35
+Revision:   4ad3490bbbf44fc6f05095d0b20b141d80b1b5bd
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer    Footprint            Center-X(mm) Center-Y(mm) Rotation Description        
+J3         SH1.0-T-1-LT-4A_卧式 TopLayer XH2.54-4P            44.1960      67.0560      180      ""                 
+J2         SH1.0-T-1-LT-4A_卧式 TopLayer XH2.54-4P            39.6240      124.0790     360      ""                 
+U6         PTC918             TopLayer SO-8                 36.8300      91.2970      270      马达驱动芯片             
+U5         PTC918             TopLayer SO-8                 65.4050      107.8230     90       马达驱动芯片             
+U4         PTC918             TopLayer SO-8                 36.7030      77.7240      270      马达驱动芯片             
+U3         PTC918             TopLayer SO-8                 65.6590      97.0280      360      马达驱动芯片             
+U2         CH559L             TopLayer LQFP48               52.2730      93.8410      90       单片机                
+U1         1117-3.3V          TopLayer SOT-223              49.7010      108.7754     90       "芯片 电源类"           
+R17        1k                 TopLayer R0603                65.6590      91.9480      180      贴片电阻-通用            
+R16        1k                 TopLayer R0603                65.5226      89.6620      180      贴片电阻-通用            
+R15        22R                TopLayer R0603                52.8320      83.8200      90       贴片电阻-通用            
+R14        22R                TopLayer R0603                51.0540      83.8200      90       贴片电阻-通用            
+R13        1k                 TopLayer R0603                40.1320      113.0300     90       贴片电阻-通用            
+R12        1k                 TopLayer R0603                33.5280      110.1090     180      贴片电阻-通用            
+R11        2K                 TopLayer R0603                55.3720      102.6794     0        贴片电阻-通用            
+R10        1k                 TopLayer R0603                46.2280      82.2960      90       贴片电阻-通用            
+R9         1k                 TopLayer R0603                43.9420      82.2960      90       贴片电阻-通用            
+R8         100R-1W            TopLayer R0603                67.4370      118.3894     0        插件电阻-碳膜            
+R7         100R-1W            TopLayer R0603                48.7680      72.1296      360      插件电阻-碳膜            
+R6         100R-1W            TopLayer R0603                40.8940      117.8560     90       插件电阻-碳膜            
+R5         100R-1W            TopLayer R0603                54.1400      72.2566      0        插件电阻-碳膜            
+R4         100R-1W            TopLayer R0603                63.8810      118.6180     0        插件电阻-碳膜            
+R3         100R-1W            TopLayer R0603                45.0850      72.1296      360      插件电阻-碳膜            
+R2         100R-1W            TopLayer R0603                38.3540      117.8560     90       插件电阻-碳膜            
+R1         100R-1W            TopLayer R0603                57.5989      72.2502      0        插件电阻-碳膜            
+J17        XH1.25-2P          TopLayer S1.25-2P             74.6860      98.2508      180      接插件-2.54           
+J16        SH1.0-T-1-LT-2A_卧式 TopLayer J-SH2.0-T-1-LT-2A_立式 28.8070      91.3740      270      SH1.0-T-1-LT-2A_卧式 
+J15        XH1.27-2P          TopLayer J-SH1.27-2           73.2050      91.0690      270      接插件-1.27           
+J14        SH1.0-T-1-LT-2A_卧式 TopLayer J-SH2.0-T-1-LT-2A_立式 28.8070      82.5250      270      SH1.0-T-1-LT-2A_卧式 
+J13        SH1.0-T-1-LT-2A_卧式 TopLayer J-SH2.0-T-1-LT-2A_立式 73.0670      115.2140     90       SH1.0-T-1-LT-2A_卧式 
+J12        XH1.27-2P          TopLayer J-SH1.27-2           73.2050      79.3650      270      接插件-1.27           
+J11        XH1.25-2P          TopLayer XH2.54-2p            28.0670      100.8380     90       接插件-2.54           
+J10        SH1.0-T-1-LT-2A_卧式 TopLayer J-SH2.0-T-1-LT-2A_立式 73.1300      105.9340     90       SH1.0-T-1-LT-2A_卧式 
+J9         S2.54-3P           TopLayer S2.54-3P             74.6760      68.5800      270      单排排针-直针            
+J8         "Header 4"         TopLayer XH2.54-4P            54.6735      124.0790     360      "Header, 4-Pin"    
+J7         XH1.27-2P          TopLayer J-SH1.27-2           28.7760      121.9300     90       接插件-1.27           
+J6         XH1.27-2P          TopLayer J-SH1.27-2           28.8820      110.8670     90       接插件-1.27           
+J5         "Header 4"         TopLayer J-SH1.27_-4          28.7760      70.8760      90       "Header, 4-Pin"    
+J4         SH1.0-T-1-LT-4A_卧式 TopLayer XH2.54-4P            69.7230      124.0790     360      ""                 
+J1         SH1.0-T-1-LT-4A_卧式 TopLayer XH2.54-4P            58.2295      67.0560      180      ""                 
+D4         ESDA_TR1/0603      TopLayer HS_0603D             57.6580      118.1100     180      "Zener Diode"      
+D3         ESDA_TR1/0603      TopLayer HS_0603D             53.8480      118.1100     180      "Zener Diode"      
+D2         LED0603G           TopLayer D-LED0603G           51.8160      102.6794     180      贴片二极管-LED          
+D1         SMAJ5.0CA          TopLayer DO-214               40.1320      100.3845     90       ""                 
+C28        104J10V            TopLayer C0402                35.4330      86.3600      360      贴片电容-陶瓷            
+C27        104J10V            TopLayer C0402                34.7980      98.5520      90       贴片电容-陶瓷            
+C26        104J10V            TopLayer C0402                66.7926      112.9030     180      贴片电容-陶瓷            
+C25        104J10V            TopLayer C0402                57.2770      114.8080     90       贴片电容-陶瓷            
+C24        104J10V            TopLayer C0402                39.2430      84.5820      180      贴片电容-陶瓷            
+C23        104J10V            TopLayer C0402                35.3060      72.8980      360      贴片电容-陶瓷            
+C22        104J10V            TopLayer C0402                35.3060      82.8040      360      贴片电容-陶瓷            
+C21        104J10V            TopLayer C0402                64.0080      112.7760     180      贴片电容-陶瓷            
+C20        104J10V            TopLayer C0402                71.1200      100.2030     360      贴片电容-陶瓷            
+C19        104J10V            TopLayer C0402                58.6740      114.8080     90       贴片电容-陶瓷            
+C18        104J10V            TopLayer C0402                38.1000      72.8980      360      贴片电容-陶瓷            
+C17        104J10V            TopLayer C0402                68.8340      101.2190     180      贴片电容-陶瓷            
+C16        104J10V            TopLayer C0402                45.6490      114.4156     90       贴片电容-陶瓷            
+C15        105K16V            TopLayer C0603                56.8960      106.4894     180      贴片电容-陶瓷            
+C14        226M50V            TopLayer C0805                56.7690      108.7754     360      贴片电容-陶瓷            
+C13        105K16V            TopLayer C0603                54.5230      115.0620     90       贴片电容-陶瓷            
+C12        106K50V            TopLayer C0603                56.0190      115.0620     90       贴片电容-陶瓷            
+C11        226M50V            TopLayer C0805                56.7690      111.0614     0        贴片电容-陶瓷            
+C10        104J10V            TopLayer C0402                47.0460      114.4156     270      贴片电容-陶瓷            
+C9         106K50V            TopLayer C0603                44.2520      114.6636     270      贴片电容-陶瓷            
+C8         102K10V            TopLayer C0603                67.3100      115.9384     360      贴片电容-陶瓷            
+C7         102K10V            TopLayer C0603                63.8810      115.9384     0        贴片电容-陶瓷            
+C6         102K10V            TopLayer C0603                48.7680      73.7806      360      贴片电容-陶瓷            
+C5         102K10V            TopLayer C0603                45.0450      73.5970      360      贴片电容-陶瓷            
+C4         102K10V            TopLayer C0603                42.9260      117.9830     90       贴片电容-陶瓷            
+C3         102K10V            TopLayer C0603                38.1400      113.0300     270      贴片电容-陶瓷            
+C2         102K10V            TopLayer C0603                54.1400      73.7368      0        贴片电容-陶瓷            
+C1         102K10V            TopLayer C0603                57.5310      73.6600      0        贴片电容-陶瓷            
